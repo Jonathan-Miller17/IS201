@@ -2,3 +2,27 @@ body {
     background-color:antiquewhite;
 }
 
+.contact{
+    text-align: center;
+}
+
+.resume{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.nice{
+    font-size: 30px;
+}
+
+.link{
+    color:red;
+}
+
+.monkey{
+    font-size: 15px;
+}
+
+
+
